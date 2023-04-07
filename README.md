@@ -8,10 +8,9 @@
 ## **Introduction** 
 <p align="center"><img src="https://user-images.githubusercontent.com/108975398/230643857-7cec81f7-50a3-4e1c-b9d7-4116b4eaee23.png" width=30%></p>
 
-```
 Place Sound Everywhere 🎶
 Place Sound is an app for music lovers who want to record music in unique locations and capture the essence of music in these places. Memories may fade, but recordings are forever.
-```
+
 ## Participants
 <div align="center">
   <table style="font-weight : bold">
