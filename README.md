@@ -1,4 +1,4 @@
-# Place Sound
+# PlaceSound
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/SwiftUI-0052CC?style=for-the-badge&logo=swift&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -8,8 +8,8 @@
 ## **Introduction** 
 <p align="center"><img src="https://user-images.githubusercontent.com/108975398/230643857-7cec81f7-50a3-4e1c-b9d7-4116b4eaee23.png" width=30%></p>
 
-Place Sound Everywhere 🎶
-Place Sound is an app for music lovers who want to record music in unique locations and capture the essence of music in these places. Memories may fade, but recordings are forever.
+PlaceSound Everywhere 🎶 </br>
+PlaceSound is an app for music lovers who want to record music in unique locations and capture the essence of music in these places. Memories may fade, but recordings are forever.
 
 ## Participants
 <div align="center">
@@ -20,7 +20,7 @@ Place Sound is an app for music lovers who want to record music in unique locati
       <tr>
           <td align="center">
               <a href="https://github.com/teddy5518">
-                  <img alt="TED (Sungmin Park)" src="https://avatars.githubusercontent.com/u/108975398?v=4" width="320" />            
+                  <img alt="TED" src="https://avatars.githubusercontent.com/u/108975398?v=4" width="320" />            
               </a>
           </td>
           <td align="center">
@@ -45,7 +45,7 @@ Place Sound is an app for music lovers who want to record music in unique locati
           </td>
       </tr>
       <tr>
-          <td align="center">TED [PM]</td>
+          <td align="center">TED [Team Leader]</td>
           <td align="center">Bomi Kim</td>
           <td align="center">Jungsun Park</td>
           <td align="center">Hoonjong Park</td>
