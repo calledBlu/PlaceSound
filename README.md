@@ -55,7 +55,7 @@ PlaceSound is an app for music lovers who want to record music in unique locatio
 <br>
 
 
-## Key features
+## Main Features
 
 |<img src="https://user-images.githubusercontent.com/108975398/230643829-9b7d636b-9318-4c90-b7fe-5f56dc56d682.png" width="400"></img>|<img src="https://user-images.githubusercontent.com/108975398/230643821-f5228bb4-816a-4d4c-bba6-6b2b2740ea20.png" width="400"></img>|<img src="https://user-images.githubusercontent.com/108975398/230643841-dc136eff-7bfd-461d-8d10-d03205baef1d.png" width="400"></img>|<img src="https://user-images.githubusercontent.com/108975398/230643846-151dc936-89aa-4ba5-bca4-28ca4125d7ac.png" width="400"></img>|
 |:-:|:-:|:-:|:-:|
@@ -69,11 +69,11 @@ PlaceSound is an app for music lovers who want to record music in unique locatio
 - **✏️ My Log**
 	- View my information and listening history
 
-## Development environment
+## Development Environment
 - iOS 16.0 or higher
 - Xcode 13.0
 
-## Technologies utilized
+## Technologies Used
 - MapKit
 
 ## License
