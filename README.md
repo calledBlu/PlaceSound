@@ -10,8 +10,7 @@
 
 ```
 Place Sound Everywhere 🎶
-Place Sound will record music in special places and record special music in places.
-Memories can be forgotten, but recordings cannot be forgotten.
+Place Sound is an app for music lovers who want to record music in unique locations and capture the essence of music in these places. Memories may fade, but recordings are forever.
 ```
 ## Participants
 <div align="center">
