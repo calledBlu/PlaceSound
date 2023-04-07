@@ -65,11 +65,11 @@ Memories can be forgotten, but recordings cannot be forgotten.
 
 - **🗺️ Map**
 	- Markers displayed on the map.
-	- When you click on a marker, you can check the song that was heard at that location.
+	- When you click on a marker, you can check the song that was heard at that place.
 - **⭐️ Recommendation**
 	- Provide location information within a range of 500m to 6km.
 - **✏️ My Log**
-	- View my information and listening history.
+	- View my information and listening history
 
 ## Development environment
 - iOS 16.0 or higher
