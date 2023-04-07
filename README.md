@@ -73,7 +73,7 @@ Memories can be forgotten, but recordings cannot be forgotten.
 
 ## Development environment
 - iOS 16.0 or higher
-- xcode 13.0
+- Xcode 13.0
 
 ## Technologies utilized
 - MapKit
