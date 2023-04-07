@@ -10,7 +10,7 @@
 
 ```
 Place Sound Everywhere 🎶
-We will record music in special places and record special music in places.
+Place Sound will record music in special places and record special music in places.
 Memories can be forgotten, but recordings cannot be forgotten.
 ```
 ## Participants
