@@ -47,7 +47,7 @@ Memories can be forgotten, but recordings cannot be forgotten.
           </td>
       </tr>
       <tr>
-          <td align="center">TED (Sungmin Park)</td>
+          <td align="center">TED [PM]</td>
           <td align="center">Bomi Kim</td>
           <td align="center">Jungsun Park</td>
           <td align="center">Hoonjong Park</td>
